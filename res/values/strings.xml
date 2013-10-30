@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidTab</string>
+    <string name="hello_world">Helld World!</string>
+
+    <string name="cate_title">分类</string>
+    <string name="new_title">最新</string>
+    <string name="hot_title">最热</string>
+
+    <string name="showDialog_title">显示Dialog</string>
+    <string name="showProgress_title">显示Progress</string>
+    <string name="showSecondActivity_title">第二个Activity</string>
+
+    <string name="cate_desc">这是一个分类</string>
+    <string name="new_desc">这是这个分类的最新</string>
+    <string name="hot_desc">这是这个分类的最热</string>
+
+    <string name="dialog_title">标题</string>
+    <string name="dialog_message">
+        Android是一种基于Linux的自由及开放源代码的操作系统，主要使用于移动设备，如智能手机和平板电脑，由Google公司和开放手机联盟领导及开发。尚未有统一中文名称。
+    </string>
+    <string name="dialog_prositiveButton">确定</string>
+    <string name="dialog_negativeButton">取消</string>
+    <string name="dialog_loading">加载中</string>
+</resources>
